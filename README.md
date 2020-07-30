@@ -2,11 +2,14 @@
 O projeto foi feito no MacOs, os comandos para um ou outro S.O pode variar
 
 Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered HTML5 Markdown editor.
-  - Ter o homebrew instalado;
-  - Instalar esses pacotes:
+  1 - Ter o homebrew instalado;
+  
+  2 - Instalar esses pacotes:
+  
     - brew install ruby
+    
     - brew install chromedriver
-
+     
     - gem install cucumber
 
     - gem install capybara
@@ -18,7 +21,6 @@ Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered H
     - gem install rails
 
     - gem install rspec
-  - Magic
   
   Para executar o projeto, é necessário:
 
