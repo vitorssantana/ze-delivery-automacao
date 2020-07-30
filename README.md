@@ -1,7 +1,8 @@
 # Ze Delivery
 O projeto foi feito no MacOs, os comandos para um ou outro S.O pode variar
 
-Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered HTML5 Markdown editor.
+Para configurar o ambiente, é necessário:
+
   1 - Ter o homebrew instalado;
   
   2 - Instalar esses pacotes:
@@ -21,10 +22,6 @@ Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered H
     - gem install rails
 
     - gem install rspec
-  
-  Para executar o projeto, é necessário:
-
-
 
 3 - Depois de instalado, para executar os dois testes de uma vez, só rodar o seguinte comando na pasta raíz:
 
