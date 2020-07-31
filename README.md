@@ -1,4 +1,4 @@
-# Ze Delivery
+# Automação Ze Delivery - Ruby + Capybara + Cucumber
 O projeto foi feito no MacOs, os comandos para um ou outro S.O pode variar
 
 Para configurar o ambiente, é necessário:
