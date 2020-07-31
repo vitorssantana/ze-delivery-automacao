@@ -33,7 +33,6 @@ Para configurar o ambiente, é necessário:
 
     - cucumber
     
-Mas se for necessário, as features podem ser rodadas individualmente; só executar os comandos:
+Mas se for necessário, a feature pode ser rodada individualmente; só executar o comando:
 
-    cucumber features/specifications/criar_tarefa.feature
-    cucumber features/specifications/criar_subtarefa.feature
+    cucumber features/specifications/sacola.feature
